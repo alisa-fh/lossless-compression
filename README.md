@@ -9,7 +9,7 @@ Our approach recognises the need to exploit statistical and structural redundanc
 * Arithmetic coding (AC) works to eliminate statistical redundancy. 
 
 
-Our full report(./Codes.pdf) assumes basic understanding of these compression strategies and build off this groundwork knowledge.
+Our [full report](./Codes.pdf) assumes basic understanding of these compression strategies and build off this groundwork knowledge.
 
 Find the encoder implemented in Python [here](./encoder.py).
 Find the decoder implemented in Python [here](./decoder.py).
